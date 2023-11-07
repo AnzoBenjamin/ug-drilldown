@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "01",
+        "properties": {
+          "name": "Kampala",
+          "density": 94.65
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [32.58251953125, 0.347596]
+            ]
+          ]
+        }
+      }
+    ]
+}

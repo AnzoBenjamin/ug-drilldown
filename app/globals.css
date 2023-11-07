@@ -25,3 +25,25 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.leaflet-container{
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.icon {
+  border: none;
+  background: transparent;
+  color: #8e8d8d;
+}
+.main{
+  display: grid;
+  grid-template-rows: 1fr 18fr;
+}
+.content{
+  display: grid;
+  grid-template-columns: 4.5fr 1fr;
+}
+.side-nav{
+  height: 80vh;
+  overflow: scroll;
+}

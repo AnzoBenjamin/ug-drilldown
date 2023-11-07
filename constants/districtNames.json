@@ -1,0 +1,988 @@
+{
+  "type": "FeatureCollection",
+  "name": "UgandanDistricts",
+  "crs": {
+      "type": "name",
+      "properties": {
+          "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+  },
+  "features": [
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Abim",
+              "description": "Abim District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.7203, 2.7276, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Adjumani",
+              "description": "Adjumani District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [31.8059, 3.3811, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Agago",
+              "description": "Agago District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.3543, 2.8332, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Alebtong",
+              "description": "Alebtong District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.2589, 2.2485, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Amolatar",
+              "description": "Amolatar District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [32.7558, 1.6209, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Amudat",
+              "description": "Amudat District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [34.9044, 1.9587, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Amuria",
+              "description": "Amuria District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.6531, 2.1375, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Amuru",
+              "description": "Amuru District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [32.8554, 2.8227, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Apac",
+              "description": "Apac District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [32.8001, 1.9845, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Arua",
+              "description": "Arua District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [30.9009, 3.0190, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Budaka",
+              "description": "Budaka District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.9493, 1.0554, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bududa",
+              "description": "Bududa District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [34.3833, 1.0113, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bugiri",
+              "description": "Bugiri District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.7314, 0.8432, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Buhweju",
+              "description": "Buhweju District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [30.2172, -0.1276, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Buikwe",
+              "description": "Buikwe District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [32.9322, 0.2821, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bukedea",
+              "description": "Bukedea District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [34.0574, 1.3221, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bukomansimbi",
+              "description": "Bukomansimbi District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [31.8794, -0.0881, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bukwo",
+              "description": "Bukwo District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [34.7972, 1.2611, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bulambuli",
+              "description": "Bulambuli District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [34.4192, 1.2724, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Buliisa",
+              "description": "Buliisa District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [31.5467, 2.2989, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bundibugyo",
+              "description": "Bundibugyo District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [30.0541, 0.7494, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bunyangabu",
+              "description": "Bunyangabu District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [30.1869, 0.4508, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Bushenyi",
+              "description": "Bushenyi District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [30.2149, -0.5485, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Busia",
+              "description": "Busia District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [34.0363, 0.4548, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Butaleja",
+              "description": "Butaleja District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [33.9687, 0.8727, 0.0]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "Name": "Butambala",
+              "description": "Butambala District",
+              "altitudeMode": "clampToGround",
+              "tessellate": "-1",
+              "extrude": "0",
+              "visibility": "-1",
+              "snippet": ""
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [31.8664, -0.2289, 0.0]
+          }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Buyende",
+          "description": "Buyende District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.1333, 1.3136, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Buzaya",
+          "description": "Buzaya District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.0500, 0.6114, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Ciboga",
+          "description": "Ciboga District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.0344, 1.3721, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Dokolo",
+          "description": "Dokolo District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.1729, 1.9065, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Gomba",
+          "description": "Gomba District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.6444, -0.3119, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Ibanda",
+          "description": "Ibanda District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.4943, -0.1556, 0.0]
+        }
+      },
+        {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kabale",
+          "description": "Kabale District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.985616, -1.241956, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kalangala",
+          "description": "Kalangala District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.2481, -0.3082, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kaliro",
+          "description": "Kaliro District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.4914, 0.9113, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kamuli",
+          "description": "Kamuli District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.1196, 0.9426, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kanungu",
+          "description": "Kanungu District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.7886, -0.7916, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kapchorwa",
+          "description": "Kapchorwa District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.3987, 1.3961, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Katakwi",
+          "description": "Katakwi District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.9742, 1.9295, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kibaale",
+          "description": "Kibaale District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.0853, 0.9176, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kiboga",
+          "description": "Kiboga District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.7714, 0.9016, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kibuku",
+          "description": "Kibuku District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.1125, 1.0533, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kiryandongo",
+          "description": "Kiryandongo District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.0744, 2.0544, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kisoro",
+          "description": "Kisoro District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [29.6845, -1.3531, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kitgum",
+          "description": "Kitgum District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.8877, 3.2912, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Koboko",
+          "description": "Koboko District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.9707, 3.4144, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kotido",
+          "description": "Kotido District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.1367, 3.1871, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kumi",
+          "description": "Kumi District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.9384, 1.4875, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kween",
+          "description": "Kween District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.6028, 1.1632, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kyankwanzi",
+          "description": "Kyankwanzi District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.7556, 1.0323, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kyegegwa",
+          "description": "Kyegegwa District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.6344, 0.3152, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Kyenjojo",
+          "description": "Kyenjojo District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.5756, 0.7672, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Lamwo",
+          "description": "Lamwo District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.9435, 3.3742, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Lira",
+          "description": "Lira District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.9089, 2.2310, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Luuka",
+          "description": "Luuka District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [33.3239, 0.6788, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Luweero",
+          "description": "Luweero District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.4684, 0.8332, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Lyantonde",
+          "description": "Lyantonde District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1573, -0.4045, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Manafwa",
+          "description": "Manafwa District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [34.3313, 1.0253, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Maracha",
+          "description": "Maracha District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [30.9993, 3.4096, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Masaka",
+          "description": "Masaka District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.7145, -0.3492, 0.0]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Masindi",
+          "description": "Masindi District",
+          "altitudeMode": "clampToGround",
+          "tessellate": "-1",
+          "extrude": "0",
+          "visibility": "-1",
+          "snippet": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.7139, 1.6686, 0.0]
+        }
+      }
+    ]
+  }

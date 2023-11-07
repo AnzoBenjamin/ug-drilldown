@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "name": "KabaleDistrictCounties",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bubare",
+        "description": "Bubare County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.93333, -1.23333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Butanda",
+        "description": "Rubanda County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.9048000, -1.4119100, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kahungye",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.9963, -1.3549, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kamungamuzi",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.0166700, -1.3500000, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kaharo",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.0883300, -1.2519200, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kibuga",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.98333, -1.41667, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kitumba",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.98333, -1.28333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maziba",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.1316900, -1.3095900, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rubaya",
+        "description": "Ndorwa County",
+        "altitudeMode": "clampToGround",
+        "tessellate": "-1",
+        "extrude": "0",
+        "visibility": "-1",
+        "snippet": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.9500000, -1.4166700, 0.0]
+      }
+    }
+  ]
+}
