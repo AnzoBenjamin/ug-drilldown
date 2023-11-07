@@ -47,3 +47,13 @@ body {
   height: 80vh;
   overflow: scroll;
 }
+/* Add this CSS to your stylesheets */
+.hovered-district {
+  position: absolute;
+  top: 20px; /* Adjust the top position as needed */
+  left: 20px; /* Adjust the left position as needed */
+  background-color: white;
+  padding: 10px;
+  border: 1px solid black;
+  z-index: 1000; /* Ensure it appears above the map */
+}

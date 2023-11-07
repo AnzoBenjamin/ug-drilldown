@@ -8,6 +8,7 @@ import subcountiesData from "../constants/sub-counties.json";
 import parishesData from "../constants/parishes.json";
 import kabaleData from "../constants/kabaleDistrict.json";
 import kabaleSubcountyData from "../constants/kabaleSubCounties.json";
+import userData from "../constants/userData.json";
 
 import districtContent from "../constants/districtNames.json";
 type LatLngExpression = [number, number];
@@ -20,6 +21,10 @@ const Map = () => {
   const [mapCenter, setMapCenter] = useState<LatLngExpression>([
     1.3476, 32.5825,
   ]);
+
+  const [hoveredDistrict, setHoveredDistrict] = useState("");
+  const [registered, setRegistered] = useState(0);
+
 
   useEffect(() => {}, [zoomLevel, visibleLayer]);
 
@@ -77,10 +82,20 @@ const Map = () => {
     setSelectedFeature(properties);
   };
 
-  
+  const handleMouseOver = (properties: any) => {
+    setHoveredDistrict(properties.dname_2006 || "");
+    if(properties.dname_2006==="KABALE") setRegistered(userData.length)
+  };
+
+  const handleMouseOut = () => {
+    setHoveredDistrict("");
+  };
+
   const onEachFeature = (feature: any, layer: any) => {
     layer.on({
       click: () => handleFeatureClick(feature.properties),
+      mouseover: () => handleMouseOver(feature.properties),
+      mouseout: handleMouseOut,
     });
   };
   // @ts-ignore
@@ -102,6 +117,13 @@ const Map = () => {
       <GeoJSON data={visibleLayer} style={{ weight: 1 }} onEachFeature={onEachFeature}/>
       {/* @ts-ignore */}
       <GeoJSON data={visibleContent} pointToLayer={setIcon} />
+      {hoveredDistrict !== null && (
+        <div className="hovered-district">
+          <p>Hovered District: {hoveredDistrict}</p>
+          Registered People: {registered}
+        </div>
+      )}
+      {console.log(hoveredDistrict)}
     </MapContainer>
   );
 };
